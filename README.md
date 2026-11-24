@@ -51,9 +51,9 @@
 
 | | Project | Description |
 |---|---|---|
-| 🎯 | [**AR Shooting Game**](https://avikamggh.github.io/AR-Shooting-Game/) | Browser-based AR shooter |
-| 🥷 | [**AR Fruit Ninja**](https://avikamggh.github.io/fruit-ninja-game-/) | Gesture-controlled AR game |
-| ⚔️ | [**Pokemon Battle**](https://avikamggh.github.io/Pokemon-Battle-/) | Interactive battle game |
+| 🎯 | [**AR Shooting Game**](https://avikamdeol.github.io/AR-Shooting-Game/) | Browser-based AR shooter |
+| 🥷 | [**AR Fruit Ninja**](https://avikamdeol.github.io/fruit-ninja-game-/) | Gesture-controlled AR game |
+| ⚔️ | [**Pokemon Battle**](https://avikamdeol.github.io/Pokemon-Battle-/) | Interactive battle game |
 
 </details>
 
@@ -62,25 +62,25 @@
 
 | | Project | Description |
 |---|---|---|
-| 💰 | [**Cryptonex**](https://avikamggh.github.io/CRYPTONEX/) | Crypto tracking app |
-| 🏥 | [**MedCareHub**](https://avikamggh.github.io/MedCareHub/) | Healthcare web app |
-| 🍽️ | [**Recipe-X**](https://avikamggh.github.io/Recipe-X/) | Recipe discovery app |
+| 💰 | [**Cryptonex**](https://avikamdeol.github.io/CRYPTONEX/) | Crypto tracking app |
+| 🏥 | [**MedCareHub**](https://avikamdeol.github.io/MedCareHub/) | Healthcare web app |
+| 🍽️ | [**Recipe-X**](https://avikamdeol.github.io/Recipe-X/) | Recipe discovery app |
 
 </details>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/sec_telemetry.svg" alt="Telemetry" width="100%"/>
+<img src="https://raw.githubusercontent.com/avikamdeol/avikamdeol/main/assets/sec_telemetry.svg" alt="Telemetry" width="100%"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=avikamggh&show_icons=true&include_all_commits=true&border_color=ff7a18&bg_color=07040d&title_color=ff7a18&text_color=fdf2e9&icon_color=ffd166&ring_color=ff2e4d"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=avikamdeol&show_icons=true&include_all_commits=true&border_color=ff7a18&bg_color=07040d&title_color=ff7a18&text_color=fdf2e9&icon_color=ffd166&ring_color=ff2e4d"/>
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikamggh&layout=compact&border_color=ff7a18&bg_color=07040d&title_color=ff7a18&text_color=fdf2e9"/>
 
-<img src="https://streak-stats.demolab.com?user=avikamggh&background=07040D&border=FF7A18&ring=FF2E4D&fire=FFD166&currStreakLabel=FF7A18&sideLabels=67E8F9&currStreakNum=FDF2E9&sideNums=FDF2E9&dates=B8A0B0&currStreakDate=B8A0B0"/>
+<img src="https://streak-stats.demolab.com?user=avikamdeol&background=07040D&border=FF7A18&ring=FF2E4D&fire=FFD166&currStreakLabel=FF7A18&sideLabels=67E8F9&currStreakNum=FDF2E9&sideNums=FDF2E9&dates=B8A0B0&currStreakDate=B8A0B0"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avikamggh&bg_color=07040d&color=ff7a18&line=ff7a18&point=ffd166&area=true&area_color=ff2e4d&hide_border=true&title_color=ff7a18"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avikamdeol&bg_color=07040d&color=ff7a18&line=ff7a18&point=ffd166&area=true&area_color=ff2e4d&hide_border=true&title_color=ff7a18"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/output/github-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/avikamdeol/avikamdeol/output/github-snake-dark.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/footer.svg" alt="footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/avikamdeol/avikamdeol/main/assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
